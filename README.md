@@ -1,11 +1,9 @@
 # RaspberryPi Temperture Fan Control
-Control a Raspberry Pi fan based on temperature. 
+Control a Raspberry Pi fan based on temperature. Can now use settings in Raspbery Pi OS as outlined here: https://www.youtube.com/watch?v=SoWerW--OHI
 
 Purchase an EZ Fan2 on Tindie: https://www.tindie.com/products/jeremycook/ez-fan2-tiny-raspberry-pi-fan-controller/
 
-Can now use settings in Raspbery Pi OS as outlined here: https://www.youtube.com/watch?v=SoWerW--OHI
-
-Accompanying material for https://www.youtube.com/watch?v=F1FQojoaNS8
+Repository contains accompanying material for https://www.youtube.com/watch?v=F1FQojoaNS8
 
 ![image](temp.jpg)
 
