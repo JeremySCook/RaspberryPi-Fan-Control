@@ -1,7 +1,7 @@
 # RaspberryPi Temperture Fan Control
 Control a Raspberry Pi fan based on temperature. Can now use settings in Raspbery Pi OS as outlined here: https://www.youtube.com/watch?v=AdjU_AVcZTA  
 
-You can also use the script provided here, though I've had to install the full version of Raspberry Pi OS (even when running headless) to ensure the proper GPIO functionality is available. There is likely a manual way to do this as well, so I'd welcome any tips (hi@jeremyscook.com)
+You can also use the temp-fan.sh script provided here, though I've had to install the full version of Raspberry Pi OS (even when running headless) to ensure the proper GPIO functionality is available. There is likely a manual way to do this as well, so I'd welcome any tips (hi@jeremyscook.com)
 
 Purchase an EZ Fan2 on Tindie: https://www.tindie.com/products/jeremycook/ez-fan2-tiny-raspberry-pi-fan-controller/
 
