@@ -28,7 +28,7 @@ try:
     opts, args = getopt.getopt(sys.argv[1:],
         "p:t:v", ["pin=", "temp=", "verbose"])
 except getopt.GetoptError:
-    print "Usage: fantemp.py [-t <temperature] [-p <GPIO pin #>]"
+    print("Usage: fantemp.py [-t <temperature] [-p <GPIO pin #>]")
     sys.exit(2)
 
 for opt, arg in opts:
