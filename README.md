@@ -1,9 +1,10 @@
 # RaspberryPi Temperture Fan Control
-Control a Raspberry Pi fan based on temperature. Three methods for use:
+Control a Raspberry Pi fan based on temperature. Four Possible methods:
 
-* **Raspbery Pi OS Control** as outlined here: https://www.youtube.com/watch?v=AdjU_AVcZTA  
+* **Raspbery Pi OS Control** [as outlined here](https://www.youtube.com/watch?v=AdjU_AVcZTA)
 * **temp-fan.sh script** provided in this directory. May want to install the full version of Raspberry Pi OS (even when running headless) to ensure the proper GPIO functionality is available. Some discussion on the subject: https://github.com/JeremySCook/RaspberryPi-Fan-Control/issues/2
-* **Python Script** found here: https://github.com/JeremySCook/RaspberryPi-Fan-Control/blob/master/PythonScript/fantemp.py
+* **Python Script** [found here](https://github.com/JeremySCook/RaspberryPi-Fan-Control/blob/master/PythonScript/fantemp.py)
+* **True PWM Control** allows you to run the fan at different speeds. [Outlined on Instructables](https://www.instructables.com/PWM-Regulated-Fan-Based-on-CPU-Temperature-for-Ras/) by Aerandir14. 
 
 You can purchase the tiny EZ Fan2 control board on Tindie: https://www.tindie.com/products/jeremycook/ez-fan2-tiny-raspberry-pi-fan-controller/  
 Note that the EZ Fan2 can be used for any small load up to a .6A limit (may need to de-rate in some situations) and fetures a flyback diode to help 
