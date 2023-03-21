@@ -10,7 +10,7 @@ You can purchase the tiny EZ Fan2 control board on Tindie: https://www.tindie.co
 Note that the EZ Fan2 can be used for any small load up to a .6A limit (may need to de-rate in some situations) and fetures a flyback diode to help 
 allieviate voltage spikes.
 
-Further fan control/development info: https://www.youtube.com/watch?v=F1FQojoaNS8
+Further fan control/development info: https://www.youtube.com/watch?v=F1FQojoaNS8  
 Control fan with Raspberry Pi OS: https://www.youtube.com/watch?v=AdjU_AVcZTA
 
 ![image](temp.jpg)
