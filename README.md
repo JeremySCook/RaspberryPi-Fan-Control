@@ -12,6 +12,7 @@ allieviate voltage spikes.
 
 Further fan control/development info: https://www.youtube.com/watch?v=F1FQojoaNS8  
 Control fan with Raspberry Pi OS: https://www.youtube.com/watch?v=AdjU_AVcZTA
+Control 12V fan (or other load) with the EZ Fan2: https://www.youtube.com/watch?v=bBBTj0RP7F8
 
 ![image](temp.jpg)
 
