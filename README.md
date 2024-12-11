@@ -1,3 +1,5 @@
+[![Tech Adjacent](https://img.shields.io/badge/Tech%20Adjacent%20With%20Jeremy%20Cook-[Substack]-blue?style=flat-square&logo=substack)](https://techadjacent.substack.com/)
+
 # RaspberryPi Temperture Fan Control
 Control a Raspberry Pi fan based on temperature. Four Possible methods:
 
