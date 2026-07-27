@@ -8,7 +8,7 @@ Control a Raspberry Pi fan based on temperature. Four Possible methods:
 * **Python Script** [found here](https://github.com/JeremySCook/RaspberryPi-Fan-Control/blob/master/PythonScript/fantemp.py)
 * **True PWM Control** allows you to run the fan at different speeds. [Outlined on Instructables](https://www.instructables.com/PWM-Regulated-Fan-Based-on-CPU-Temperature-for-Ras/) by Aerandir14. 
 
-You can purchase the tiny EZ Fan2 control board on Tindie: https://www.tindie.com/products/jeremycook/ez-fan2-tiny-raspberry-pi-fan-controller/  
+Purchase the tiny EZ Fan2 control board at: http://jcdevices.com/
 Note that the EZ Fan2 can be used for any small load up to a .6A limit (may need to de-rate in some situations) and fetures a flyback diode to help 
 allieviate voltage spikes.
 
